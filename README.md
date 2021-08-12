@@ -13,4 +13,4 @@ The data is collected and cleaned by me. A high bandwidth router in Telia networ
 
 Model is an recurrent neural network with LSTM layer as the input layer.
 
-### 
+### To read more about the project, visit https://siddardhakaja.web.app/assets/doc/thesis.pdf
