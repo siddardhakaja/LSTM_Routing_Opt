@@ -9,6 +9,8 @@ The data is collected and cleaned by me. A high bandwidth router in Telia networ
 
 ### sunday_csv.csv is the values of the selected router observed on a sunday. Similarly, wednesday_csv.csv is the values of the same router observed on a monday.
 
-## Model Preperation
+## Model Preparation
 
 Model is an recurrent neural network with LSTM layer as the input layer.
+
+### 
